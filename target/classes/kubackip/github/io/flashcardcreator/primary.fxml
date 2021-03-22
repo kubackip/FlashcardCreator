@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="450.0" prefWidth="350.0" spacing="20.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kubackip.github.io.flashcardcreator.PrimaryController">
+   <children>
+      <AnchorPane>
+         <children>
+            <Label layoutX="120.0" layoutY="6.0" text="Create Flashcard" textAlignment="CENTER" />
+            <VBox layoutX="29.0" layoutY="71.0" spacing="10.0">
+               <children>
+                  <Label text="Add English Word" />
+                  <TextField fx:id="wordToTranslateTextField" prefHeight="26.0" prefWidth="292.0" />
+                  <Label text="Translation" />
+                  <TextArea fx:id="wordTranslationsTextArea" prefHeight="200.0" prefWidth="292.0" />
+                  <Button mnemonicParsing="false" onAction="#addFlashcard" text="Add Flashcard" />
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

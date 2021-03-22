@@ -1,0 +1,5 @@
+module-info.class
+kubackip/github/io/flashcardcreator/db/ConnectToDB.class
+kubackip/github/io/flashcardcreator/PrimaryController.class
+kubackip/github/io/flashcardcreator/db/DBConnector.class
+kubackip/github/io/flashcardcreator/App.class
