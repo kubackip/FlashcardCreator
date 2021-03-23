@@ -1,5 +1,7 @@
 /home/samson/Programming/Java/FlashcardCreator/src/main/java/kubackip/github/io/flashcardcreator/db/DBConnector.java
 /home/samson/Programming/Java/FlashcardCreator/src/main/java/kubackip/github/io/flashcardcreator/db/ConnectToDB.java
+/home/samson/Programming/Java/FlashcardCreator/src/main/java/kubackip/github/io/flashcardcreator/db/DBInsertOperation.java
 /home/samson/Programming/Java/FlashcardCreator/src/main/java/kubackip/github/io/flashcardcreator/App.java
 /home/samson/Programming/Java/FlashcardCreator/src/main/java/module-info.java
+/home/samson/Programming/Java/FlashcardCreator/src/main/java/kubackip/github/io/flashcardcreator/db/DBGetOperation.java
 /home/samson/Programming/Java/FlashcardCreator/src/main/java/kubackip/github/io/flashcardcreator/PrimaryController.java

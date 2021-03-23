@@ -1,0 +1,4 @@
+--patch-module
+kubackip.github.io.flashcardcreator=_
+--add-reads
+kubackip.github.io.flashcardcreator=ALL-UNNAMED
